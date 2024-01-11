@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.몫 구하기", "3.몫 �
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.나이출력", "4.나이출력\4.나이출력.csproj", "{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.숫자 비교하기", "5.숫자 비교하기\5.숫자 비교하기.csproj", "{0355A9DF-A525-4921-8CB3-E0E2BF5630C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0355A9DF-A525-4921-8CB3-E0E2BF5630C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0355A9DF-A525-4921-8CB3-E0E2BF5630C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0355A9DF-A525-4921-8CB3-E0E2BF5630C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0355A9DF-A525-4921-8CB3-E0E2BF5630C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
