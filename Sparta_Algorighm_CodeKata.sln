@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. 두수의 곱", "2. 두�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.몫 구하기", "3.몫 구하기\3.몫 구하기.csproj", "{B3F9CCA2-DEA9-4FE4-B642-2B34EA22338D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.나이출력", "4.나이출력\4.나이출력.csproj", "{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{B3F9CCA2-DEA9-4FE4-B642-2B34EA22338D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F9CCA2-DEA9-4FE4-B642-2B34EA22338D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F9CCA2-DEA9-4FE4-B642-2B34EA22338D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
