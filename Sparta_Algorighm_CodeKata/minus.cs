@@ -1,6 +1,6 @@
 ﻿namespace Sparta_Algorighm_CodeKata
 {
-    internal class Program
+    internal class minus
     {
         public static int soulution(int num1, int num2)
         {
