@@ -3,23 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. 두수의차", "Sparta_Algorighm_CodeKata\1. 두수의차.csproj", "{CC9F8212-96CD-44BA-9775-96B5AE2BF149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. 두수의차", "Sparta_Algorighm_CodeKata\01. 두수의차.csproj", "{CC9F8212-96CD-44BA-9775-96B5AE2BF149}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2. 두수의 곱", "2. 두수의 곱\2. 두수의 곱.csproj", "{5A6AB75B-2215-44E7-9C49-3FCC6AE73F84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. 두수의 곱", "2. 두수의 곱\02. 두수의 곱.csproj", "{5A6AB75B-2215-44E7-9C49-3FCC6AE73F84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.몫 구하기", "3.몫 구하기\3.몫 구하기.csproj", "{B3F9CCA2-DEA9-4FE4-B642-2B34EA22338D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.몫 구하기", "3.몫 구하기\03.몫 구하기.csproj", "{B3F9CCA2-DEA9-4FE4-B642-2B34EA22338D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.나이출력", "4.나이출력\4.나이출력.csproj", "{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.나이출력", "4.나이출력\04.나이출력.csproj", "{8EBF4E99-5208-41BF-9F1E-7B01F7917E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.숫자 비교하기", "5.숫자 비교하기\5.숫자 비교하기.csproj", "{0355A9DF-A525-4921-8CB3-E0E2BF5630C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.숫자 비교하기", "5.숫자 비교하기\05.숫자 비교하기.csproj", "{0355A9DF-A525-4921-8CB3-E0E2BF5630C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.두수의합", "6.두수의합\6.두수의합.csproj", "{CDBB5436-DA2A-4358-AEAD-FED7740C3AAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.두수의합", "6.두수의합\06.두수의합.csproj", "{CDBB5436-DA2A-4358-AEAD-FED7740C3AAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.두수의 나눗셈", "7.두수의 나눗셈\7.두수의 나눗셈.csproj", "{6B3C2F68-345A-4838-BC92-05A5BBB157E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.두수의 나눗셈", "7.두수의 나눗셈\07.두수의 나눗셈.csproj", "{6B3C2F68-345A-4838-BC92-05A5BBB157E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.각도기", "8.각도기\8.각도기.csproj", "{7597B92A-CB90-4253-9F81-839E1E2CE325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.각도기", "8.각도기\08.각도기.csproj", "{7597B92A-CB90-4253-9F81-839E1E2CE325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.짝수의 합", "9.짝수의 합\9.짝수의 합.csproj", "{9C873091-4724-49CF-A6EE-4D642DA890AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.짝수의 합", "9.짝수의 합\09.짝수의 합.csproj", "{9C873091-4724-49CF-A6EE-4D642DA890AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 배열의 평균값", "10. 배열의 평균값\10. 배열의 평균값.csproj", "{E42157E7-80D3-4AB8-A3A8-7BAD7F58B2E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. 짝수와 홀수", "11. 짝수와 홀수\11. 짝수와 홀수.csproj", "{C0B17A2D-58E2-4BE4-A6F0-03B3D5AE4496}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. 평균구하기", "12. 평균구하기\12. 평균구하기.csproj", "{73F65D7B-6B13-447F-AFA9-774E57AD65EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +69,18 @@ Global
 		{9C873091-4724-49CF-A6EE-4D642DA890AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C873091-4724-49CF-A6EE-4D642DA890AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C873091-4724-49CF-A6EE-4D642DA890AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E42157E7-80D3-4AB8-A3A8-7BAD7F58B2E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E42157E7-80D3-4AB8-A3A8-7BAD7F58B2E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E42157E7-80D3-4AB8-A3A8-7BAD7F58B2E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E42157E7-80D3-4AB8-A3A8-7BAD7F58B2E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B17A2D-58E2-4BE4-A6F0-03B3D5AE4496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B17A2D-58E2-4BE4-A6F0-03B3D5AE4496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B17A2D-58E2-4BE4-A6F0-03B3D5AE4496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B17A2D-58E2-4BE4-A6F0-03B3D5AE4496}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F65D7B-6B13-447F-AFA9-774E57AD65EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F65D7B-6B13-447F-AFA9-774E57AD65EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F65D7B-6B13-447F-AFA9-774E57AD65EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F65D7B-6B13-447F-AFA9-774E57AD65EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
