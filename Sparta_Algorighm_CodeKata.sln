@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. 짝수와 홀수", "11.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. 평균구하기", "12. 평균구하기\12. 평균구하기.csproj", "{73F65D7B-6B13-447F-AFA9-774E57AD65EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.자릿수 더하기", "13.자릿수 더하기\13.자릿수 더하기.csproj", "{CCE3636B-BC55-4FEC-A6B5-B9A608A858A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.자릿수 더하기", "13.자릿수 더하기\13.자릿수 더하기.csproj", "{CCE3636B-BC55-4FEC-A6B5-B9A608A858A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. 약수의 합", "14. 약수의 합\14. 약수의 합.csproj", "{78C6D2B1-FD7F-4E08-A532-621B7CC85AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.나머지가 1이되는 수 찾기", "15.나머지가 1이되는 수 찾기\15.나머지가 1이되는 수 찾기.csproj", "{F990D76D-782C-4007-A4E3-F983A2ECD969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{CCE3636B-BC55-4FEC-A6B5-B9A608A858A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE3636B-BC55-4FEC-A6B5-B9A608A858A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE3636B-BC55-4FEC-A6B5-B9A608A858A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C6D2B1-FD7F-4E08-A532-621B7CC85AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C6D2B1-FD7F-4E08-A532-621B7CC85AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C6D2B1-FD7F-4E08-A532-621B7CC85AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C6D2B1-FD7F-4E08-A532-621B7CC85AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F990D76D-782C-4007-A4E3-F983A2ECD969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F990D76D-782C-4007-A4E3-F983A2ECD969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F990D76D-782C-4007-A4E3-F983A2ECD969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F990D76D-782C-4007-A4E3-F983A2ECD969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
