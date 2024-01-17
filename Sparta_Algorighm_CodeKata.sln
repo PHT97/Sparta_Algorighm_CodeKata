@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12. 평균구하기", "12. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.자릿수 더하기", "13.자릿수 더하기\13.자릿수 더하기.csproj", "{CCE3636B-BC55-4FEC-A6B5-B9A608A858A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. 약수의 합", "14. 약수의 합\14. 약수의 합.csproj", "{78C6D2B1-FD7F-4E08-A532-621B7CC85AEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14. 약수의 합", "14. 약수의 합\14. 약수의 합.csproj", "{78C6D2B1-FD7F-4E08-A532-621B7CC85AEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.나머지가 1이되는 수 찾기", "15.나머지가 1이되는 수 찾기\15.나머지가 1이되는 수 찾기.csproj", "{F990D76D-782C-4007-A4E3-F983A2ECD969}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.나머지가 1이되는 수 찾기", "15.나머지가 1이되는 수 찾기\15.나머지가 1이되는 수 찾기.csproj", "{F990D76D-782C-4007-A4E3-F983A2ECD969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. x만큼 간격이 있는 n개의 숫자", "16. x만큼 간격이 있는 n개의 숫자\16. x만큼 간격이 있는 n개의 숫자.csproj", "{4C84EBD0-683C-4464-B609-5E4100DB2003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F990D76D-782C-4007-A4E3-F983A2ECD969}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F990D76D-782C-4007-A4E3-F983A2ECD969}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F990D76D-782C-4007-A4E3-F983A2ECD969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C84EBD0-683C-4464-B609-5E4100DB2003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C84EBD0-683C-4464-B609-5E4100DB2003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C84EBD0-683C-4464-B609-5E4100DB2003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C84EBD0-683C-4464-B609-5E4100DB2003}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
