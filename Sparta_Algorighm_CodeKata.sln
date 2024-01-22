@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.나머지가 1이되는 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16. x만큼 간격이 있는 n개의 숫자", "16. x만큼 간격이 있는 n개의 숫자\16. x만큼 간격이 있는 n개의 숫자.csproj", "{4C84EBD0-683C-4464-B609-5E4100DB2003}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. 자연수 뒤집어 배열로만들기", "17. 자연수 뒤집어 배열로만들기\17. 자연수 뒤집어 배열로만들기.csproj", "{5161CE4D-A834-4CD6-B309-621E33A87A2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17. 자연수 뒤집어 배열로만들기", "17. 자연수 뒤집어 배열로만들기\17. 자연수 뒤집어 배열로만들기.csproj", "{5161CE4D-A834-4CD6-B309-621E33A87A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. 문자열을 정수로 바꾸기", "18. 문자열을 정수로 바꾸기\18. 문자열을 정수로 바꾸기.csproj", "{D198E4D8-4995-4F57-A642-BB49969C82F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{5161CE4D-A834-4CD6-B309-621E33A87A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5161CE4D-A834-4CD6-B309-621E33A87A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5161CE4D-A834-4CD6-B309-621E33A87A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D198E4D8-4995-4F57-A642-BB49969C82F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D198E4D8-4995-4F57-A642-BB49969C82F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D198E4D8-4995-4F57-A642-BB49969C82F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D198E4D8-4995-4F57-A642-BB49969C82F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
