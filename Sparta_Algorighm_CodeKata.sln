@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20. 정수 내림차순으�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. 하샤드수", "21. 하샤드수\21. 하샤드수.csproj", "{E5246654-9F41-4B35-AF33-12F71073F112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. 두 정수 사이의 합", "22. 두 정수 사이의 합\22. 두 정수 사이의 합.csproj", "{FC7AD3AC-C8F5-4782-984A-83F47E5B2CC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22. 두 정수 사이의 합", "22. 두 정수 사이의 합\22. 두 정수 사이의 합.csproj", "{FC7AD3AC-C8F5-4782-984A-83F47E5B2CC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. 콜라츠 추측", "23. 콜라츠 추측\23. 콜라츠 추측.csproj", "{94E50C4E-06F4-4BF6-AE4D-AF16A135882E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{FC7AD3AC-C8F5-4782-984A-83F47E5B2CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC7AD3AC-C8F5-4782-984A-83F47E5B2CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC7AD3AC-C8F5-4782-984A-83F47E5B2CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94E50C4E-06F4-4BF6-AE4D-AF16A135882E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94E50C4E-06F4-4BF6-AE4D-AF16A135882E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94E50C4E-06F4-4BF6-AE4D-AF16A135882E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94E50C4E-06F4-4BF6-AE4D-AF16A135882E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
