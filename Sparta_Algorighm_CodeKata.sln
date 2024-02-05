@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22. 두 정수 사이의 �
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23. 콜라츠 추측", "23. 콜라츠 추측\23. 콜라츠 추측.csproj", "{94E50C4E-06F4-4BF6-AE4D-AF16A135882E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24. 서울에서 김서방 찾기", "24. 서울에서 김서방 찾기\24. 서울에서 김서방 찾기.csproj", "{4D41F23E-FB6E-4517-AA75-3D6D82D1586D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. 서울에서 김서방 찾기", "24. 서울에서 김서방 찾기\24. 서울에서 김서방 찾기.csproj", "{4D41F23E-FB6E-4517-AA75-3D6D82D1586D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. 나누어 떨어지는 숫자 배열", "25. 나누어 떨어지는 숫자 배열\25. 나누어 떨어지는 숫자 배열.csproj", "{824B55F2-EDC3-4A4B-9EA3-9200CAFD5CF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{4D41F23E-FB6E-4517-AA75-3D6D82D1586D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D41F23E-FB6E-4517-AA75-3D6D82D1586D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D41F23E-FB6E-4517-AA75-3D6D82D1586D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824B55F2-EDC3-4A4B-9EA3-9200CAFD5CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824B55F2-EDC3-4A4B-9EA3-9200CAFD5CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824B55F2-EDC3-4A4B-9EA3-9200CAFD5CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824B55F2-EDC3-4A4B-9EA3-9200CAFD5CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
