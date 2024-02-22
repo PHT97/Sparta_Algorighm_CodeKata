@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29. 제일 작은수 제거
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30. 가운데 글자 가져오기", "30. 가운데 글자 가져오기\30. 가운데 글자 가져오기.csproj", "{8C1EA045-AAE7-4D62-9A8C-4A6F4FB67443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31. 수박수박수", "31. 수박수박수\31. 수박수박수.csproj", "{59AEDBAD-A6CB-491E-95BE-ED9F5591AA37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31. 수박수박수", "31. 수박수박수\31. 수박수박수.csproj", "{59AEDBAD-A6CB-491E-95BE-ED9F5591AA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32. 내적", "32. 내적\32. 내적.csproj", "{A1A4F14E-605D-49D3-8D62-8C9EEF37C363}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{59AEDBAD-A6CB-491E-95BE-ED9F5591AA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59AEDBAD-A6CB-491E-95BE-ED9F5591AA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59AEDBAD-A6CB-491E-95BE-ED9F5591AA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1A4F14E-605D-49D3-8D62-8C9EEF37C363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1A4F14E-605D-49D3-8D62-8C9EEF37C363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1A4F14E-605D-49D3-8D62-8C9EEF37C363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1A4F14E-605D-49D3-8D62-8C9EEF37C363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
