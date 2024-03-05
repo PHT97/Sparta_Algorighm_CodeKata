@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33. 약수의 개수와 덧
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34. 문자열 내림차순으로 배치하기", "34. 문자열 내림차순으로 배치하기\34. 문자열 내림차순으로 배치하기.csproj", "{FC361035-77E7-490B-937B-FC56CFEF5088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. 부족한 금액 계산하기", "35. 부족한 금액 계산하기\35. 부족한 금액 계산하기.csproj", "{E201A199-579D-4D9B-B7E9-49B2D5883564}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35. 부족한 금액 계산하기", "35. 부족한 금액 계산하기\35. 부족한 금액 계산하기.csproj", "{E201A199-579D-4D9B-B7E9-49B2D5883564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36. 문자열 다루기 기본", "36. 문자열 다루기 기본\36. 문자열 다루기 기본.csproj", "{7BCCB17A-4DAE-4CC1-A3ED-F60F3550E6B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{E201A199-579D-4D9B-B7E9-49B2D5883564}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E201A199-579D-4D9B-B7E9-49B2D5883564}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E201A199-579D-4D9B-B7E9-49B2D5883564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BCCB17A-4DAE-4CC1-A3ED-F60F3550E6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCCB17A-4DAE-4CC1-A3ED-F60F3550E6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCCB17A-4DAE-4CC1-A3ED-F60F3550E6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCCB17A-4DAE-4CC1-A3ED-F60F3550E6B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
