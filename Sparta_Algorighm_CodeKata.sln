@@ -75,7 +75,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35. 부족한 금액 계산
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36. 문자열 다루기 기본", "36. 문자열 다루기 기본\36. 문자열 다루기 기본.csproj", "{7BCCB17A-4DAE-4CC1-A3ED-F60F3550E6B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37. 행렬의 덧셈", "37. 행렬의 덧셈\37. 행렬의 덧셈.csproj", "{7285EB26-745A-43C9-9AEB-E7BEA5B35160}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37. 행렬의 덧셈", "37. 행렬의 덧셈\37. 행렬의 덧셈.csproj", "{7285EB26-745A-43C9-9AEB-E7BEA5B35160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38. 직사각형 별찍기", "38. 직사각형 별찍기\38. 직사각형 별찍기.csproj", "{A563BF49-620F-47EC-AF20-BF7D279FFE9E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,10 @@ Global
 		{7285EB26-745A-43C9-9AEB-E7BEA5B35160}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7285EB26-745A-43C9-9AEB-E7BEA5B35160}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7285EB26-745A-43C9-9AEB-E7BEA5B35160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A563BF49-620F-47EC-AF20-BF7D279FFE9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A563BF49-620F-47EC-AF20-BF7D279FFE9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A563BF49-620F-47EC-AF20-BF7D279FFE9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A563BF49-620F-47EC-AF20-BF7D279FFE9E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
