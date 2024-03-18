@@ -89,7 +89,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42. 삼총사", "42. 삼총
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "43. 크기가 작은 부분문자열", "43. 크기가 작은 부분문자열\43. 크기가 작은 부분문자열.csproj", "{A04CF59F-0F5D-4511-A4F6-6823379BBDFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44. 최소직사각형", "44. 최소직사각형\44. 최소직사각형.csproj", "{F8497AB5-C613-4311-A0DB-FD04AB4D3C37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "44. 최소직사각형", "44. 최소직사각형\44. 최소직사각형.csproj", "{F8497AB5-C613-4311-A0DB-FD04AB4D3C37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45. 시저암호", "45. 시저암호\45. 시저암호.csproj", "{38D24A08-1952-4710-A383-92F5A8D52034}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +275,10 @@ Global
 		{F8497AB5-C613-4311-A0DB-FD04AB4D3C37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8497AB5-C613-4311-A0DB-FD04AB4D3C37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8497AB5-C613-4311-A0DB-FD04AB4D3C37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D24A08-1952-4710-A383-92F5A8D52034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D24A08-1952-4710-A383-92F5A8D52034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D24A08-1952-4710-A383-92F5A8D52034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D24A08-1952-4710-A383-92F5A8D52034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
