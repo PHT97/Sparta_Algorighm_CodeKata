@@ -93,7 +93,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "44. 최소직사각형", "4
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "45. 시저암호", "45. 시저암호\45. 시저암호.csproj", "{38D24A08-1952-4710-A383-92F5A8D52034}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46. 숫자 문자열과 영단어", "46. 숫자 문자열과 영단어\46. 숫자 문자열과 영단어.csproj", "{05B1BD8B-396B-4FF5-9C16-BDAA3E1A136D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "46. 숫자 문자열과 영단어", "46. 숫자 문자열과 영단어\46. 숫자 문자열과 영단어.csproj", "{05B1BD8B-396B-4FF5-9C16-BDAA3E1A136D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "47. 문자열 내 마음대로 정렬하기", "47. 문자열 내 마음대로 정렬하기\47. 문자열 내 마음대로 정렬하기.csproj", "{38904605-F143-478A-BD90-7AABF60CB2F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -285,6 +287,10 @@ Global
 		{05B1BD8B-396B-4FF5-9C16-BDAA3E1A136D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05B1BD8B-396B-4FF5-9C16-BDAA3E1A136D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05B1BD8B-396B-4FF5-9C16-BDAA3E1A136D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38904605-F143-478A-BD90-7AABF60CB2F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38904605-F143-478A-BD90-7AABF60CB2F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38904605-F143-478A-BD90-7AABF60CB2F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38904605-F143-478A-BD90-7AABF60CB2F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
