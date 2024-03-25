@@ -99,7 +99,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "47. 문자열 내 마음대
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "48. K번째 수 구하기", "48. K번째 수 구하기\48. K번째 수 구하기.csproj", "{2296C1C3-D701-488A-BCFA-A084DAC2CDF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49. 두개 뽑아서 더하기", "49. 두개 뽑아서 더하기\49. 두개 뽑아서 더하기.csproj", "{7FF35A67-9E6C-423F-B75E-A6D7ABD81B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "49. 두개 뽑아서 더하기", "49. 두개 뽑아서 더하기\49. 두개 뽑아서 더하기.csproj", "{7FF35A67-9E6C-423F-B75E-A6D7ABD81B9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50. 가장 가까운 같은 글자", "50. 가장 가까운 같은 글자\50. 가장 가까운 같은 글자.csproj", "{2AB3C0D2-83B7-4455-8BD3-6513C8B2904D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{7FF35A67-9E6C-423F-B75E-A6D7ABD81B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF35A67-9E6C-423F-B75E-A6D7ABD81B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF35A67-9E6C-423F-B75E-A6D7ABD81B9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB3C0D2-83B7-4455-8BD3-6513C8B2904D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB3C0D2-83B7-4455-8BD3-6513C8B2904D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB3C0D2-83B7-4455-8BD3-6513C8B2904D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB3C0D2-83B7-4455-8BD3-6513C8B2904D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
